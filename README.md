@@ -3,3 +3,5 @@
 I am working on creating my personal website.
 
 If you have any questions, please email me at [shhsu@cs.washington.edu](mailto:shhsu@cs.washington.edu).
+
+[Link to my personal website](https://shihhsuanhsu.github.io)
