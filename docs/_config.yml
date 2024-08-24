@@ -18,9 +18,11 @@ theme: minima
 # add a line comment on "theme: minima" above.
 #remote_theme: jekyll/minima
 
-# plugins:
-#   - jekyll-feed
-#   - jekyll-seo-tag
+url: "https://shihhsuanhsu.github.io"
+plugins:
+  - jekyll-sitemap
+  # - jekyll-feed
+  # - jekyll-seo-tag
 
 # Theme-specific settings
 
@@ -68,3 +70,16 @@ minima:
    - { platform: twitter,        user_url: "https://x.com/ShihHsuanHsu" }
   #  - { platform: x,              user_url: "https://x.com/ShihHsuanHsu" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
+
+# exclude site map
+defaults:
+  -
+    scope:
+      path:            "BingSiteAuth.xml"
+    values:
+      sitemap:         false
+  -
+    scope:
+      path:            "google28deaaff7aa31236.html"
+    values:
+      sitemap:         false
