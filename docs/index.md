@@ -12,6 +12,6 @@ permalink: /
 
 Welcome to Shih-Hsuan (Daniel) Hsu's Personal Website!
 This website is still under construction.
-Please email me at [daniel.sh.hsu@gmail.com](daniel.sh.hsu@gmail.com)
+Please email me at [mailto:daniel.sh.hsu@gmail.com](daniel.sh.hsu@gmail.com)
     for any question.
 My CV is available upon request.
