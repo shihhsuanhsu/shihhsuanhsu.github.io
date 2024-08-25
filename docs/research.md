@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research
-permalink: /research/
+permalink: /research
 ---
 
 I will update this in the near future.
