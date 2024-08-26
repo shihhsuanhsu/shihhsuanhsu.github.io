@@ -9,8 +9,7 @@ layout: page
 permalink: /
 ---
 
-Welcome to Shih-Hsuan (Daniel) Hsu's Personal Website!
+I am a Ph.D. student in Economics at The University of Texas at Austin.
 This website is still under construction.
 Please email me at [daniel.sh.hsu@gmail.com](mailto:daniel.sh.hsu@gmail.com)
-    for any question.
-My CV is available upon request.
+    for any questions or my CV.
