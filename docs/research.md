@@ -3,7 +3,7 @@ layout: home
 title: Research
 permalink: /research
 redirect_from:
-  - /research
+  - /research/
 ---
 
 I will update this in the near future.
