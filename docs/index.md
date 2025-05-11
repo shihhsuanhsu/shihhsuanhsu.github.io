@@ -9,7 +9,7 @@ layout: page
 permalink: /
 ---
 
-I am a Ph.D. student in Economics at The University of Texas at Austin.
+I am an Economics Ph.D. student at The University of Texas at Austin.
 This website is still under construction.
 Please email me at [daniel.sh.hsu@gmail.com](mailto:daniel.sh.hsu@gmail.com)
-    for any questions or my CV.
+    for any inquiries or to request my CV.
