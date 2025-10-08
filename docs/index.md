@@ -9,7 +9,8 @@ layout: page
 permalink: /
 ---
 
-I am an Economics Ph.D. student at The University of Texas at Austin.
+I am an Economics Ph.D. student at
+<a href="https://liberalarts.utexas.edu/economics/" class="hidden-links">The University of Texas at Austin</a>
 This website is still under construction.
 Please email me at [daniel.sh.hsu@gmail.com](mailto:daniel.sh.hsu@gmail.com)
     for any inquiries or to request my CV.

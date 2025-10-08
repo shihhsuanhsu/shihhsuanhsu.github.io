@@ -1,0 +1,9 @@
+.hidden-links, .hidden-links:visited {
+    color: inherit;
+    text-decoration: none;
+}
+
+.hidden-links:hover {
+    color: #00ccff;
+    text-decoration: underline;
+}

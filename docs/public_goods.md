@@ -7,5 +7,4 @@ redirect_from:
 ---
 
 - [Syntax Highlighting for Dynare](https://github.com/shihhsuanhsu/vscode-dynare-syntax)
-
-I will add more in the near future.
+- [SCons-based Project Template](https://github.com/shihhsuanhsu/project-template)
