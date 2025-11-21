@@ -4,6 +4,10 @@
 }
 
 .hidden-links:hover {
-    color: #00ccff;
+    color: #329ce2;
     text-decoration: underline;
+}
+
+a {
+    color: #329ce2;
 }
